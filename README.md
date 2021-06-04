@@ -1,2 +1,3 @@
 # AI-Pathfinding
-Implementing three pathfinding algorithms
+AI J-component
+Implementing  pathfinding algorithms
